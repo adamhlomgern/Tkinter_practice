@@ -21,8 +21,8 @@ button.pack()
 
 #Entry
 input = Entry(width=10)
+print(input.get())
 input.pack()
-input.get()
 
 
 
